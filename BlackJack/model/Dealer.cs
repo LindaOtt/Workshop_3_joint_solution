@@ -35,10 +35,6 @@ namespace BlackJack.model
         {
             if (m_deck != null && a_player.CalcScore() < g_maxScore && !IsGameOver())
             {
-                //Card c;
-                //c = m_deck.GetCard();
-                //c.Show(true);
-                //a_player.DealCard(c);
                 dealCardTo(a_player, true);
 
                 return true;
@@ -54,9 +50,7 @@ namespace BlackJack.model
 
                 while(m_hitRule.DoHit(this))
                 {
-                    //Card c = m_deck.GetCard();
-                    //c.Show(true);
-                    //DealCard(c);
+                   
                     dealCardTo(this, true);
                 }
 
@@ -65,18 +59,6 @@ namespace BlackJack.model
             return false;
         }
 
-        //public bool IsDealerWinner(Player a_player)
-        //{
-        //    if (a_player.CalcScore() > g_maxScore)
-        //    {
-        //        return true;
-        //    }
-        //    else if (CalcScore() > g_maxScore)
-        //    {
-        //        return false;
-        //    }
-        //    return CalcScore() >= a_player.CalcScore();
-        //}
 
         public bool IsGameOver()
         {
@@ -92,9 +74,7 @@ namespace BlackJack.model
             Card c = m_deck.GetCard();
             c.Show(a_doShow);
             a_to.DealCard(c);
-
-            //ObserverManager.Instance().Attch(new Observer(c));
-            //ObserverManager.Instance().Notify();
+            
         }
     }
 }

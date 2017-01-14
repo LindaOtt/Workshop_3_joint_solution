@@ -85,7 +85,6 @@
     <Compile Include="model\rules\PlayerWinRule.cs" />
     <Compile Include="model\rules\RulesFactory.cs" />
     <Compile Include="model\Observer.cs" />
-    <Compile Include="model\ObserverManager.cs" />
     <Compile Include="model\rules\Soft17HitStrategy.cs" />
     <Compile Include="model\rules\WinRule.cs" />
     <Compile Include="Program.cs" />

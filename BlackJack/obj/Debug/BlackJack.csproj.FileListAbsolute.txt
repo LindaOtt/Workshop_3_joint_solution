@@ -12,3 +12,6 @@ D:\文档\作业\Objektorienterad analys och design med UML\workshop3\blackjack_
 C:\Users\Fam\Google Drive\Webbprogrammerare\1DV607 Objektorienterad analys och design med UML\Ningruis solution\blackjack_csharp-master\BlackJack\bin\Debug\BlackJack.exe.config
 C:\Users\Fam\Google Drive\Webbprogrammerare\1DV607 Objektorienterad analys och design med UML\Ningruis solution\blackjack_csharp-master\BlackJack\obj\Debug\BlackJack.exe
 C:\Users\Fam\Google Drive\Webbprogrammerare\1DV607 Objektorienterad analys och design med UML\Ningruis solution\blackjack_csharp-master\BlackJack\obj\Debug\BlackJack.pdb
+C:\Users\Fam\Google Drive\Webbprogrammerare\1DV607 Objektorienterad analys och design med UML\Ningruis solution\blackjack_csharp-master\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\Fam\Google Drive\Webbprogrammerare\1DV607 Objektorienterad analys och design med UML\Ningruis solution\blackjack_csharp-master\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\Fam\Google Drive\Webbprogrammerare\1DV607 Objektorienterad analys och design med UML\Ningruis solution\blackjack_csharp-master\BlackJack\obj\Debug\BlackJack.csprojResolveAssemblyReference.cache
