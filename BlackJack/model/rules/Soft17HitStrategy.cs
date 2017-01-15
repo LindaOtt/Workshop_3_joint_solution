@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace BlackJack.model.rules
 {
+
     class Soft17HitStrategy : IHitStrategy
     {
         private int g_hitLimit = 17;
